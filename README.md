@@ -11,7 +11,7 @@ The words are generated using a JSON dictionary file
 
 The aim of the game is to guess the word correctly by entering one letter at a time.
 
-You get to enter 6 failed attempts, if the word is not guessed before your sixth failed attempt then you loose.
+You get to enter 6 failed attempts, if the word is not guessed before your sixth failed attempt then you lose.
 
 Guess the word without getting 6 incorrect letters and you win!
 
