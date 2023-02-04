@@ -18,7 +18,7 @@ const Rules = () => {
                 </div>
                 <div className="offcanvas-body">
                     <p>The aim of the game is to guess the word correctly by entering one letter at a time.</p>
-                    <p>You get to enter 6 failed attempts, if the word is not guessed before your sixth failed attempt then you loose.</p>
+                    <p>You get to enter 6 failed attempts, if the word is not guessed before your sixth failed attempt then you lose.</p>
                     <p>Guess the word without getting 6 incorrect letters and you win!</p>
                     <p>You can reset the game at any time by clicking the reset button.</p>
                     <p><strong>Good Luck and thanks for playing!</strong></p>
