@@ -17,7 +17,8 @@ Guess the word without getting 6 incorrect letters and you win!
 
 You can reset the game at any time by clicking the reset button.
 
-
+## Link to website
+<a href="https://hangman-react-redux-phi.vercel.app/" target="_blank">Visit the live website here</a>
 
 ## Installation
 
